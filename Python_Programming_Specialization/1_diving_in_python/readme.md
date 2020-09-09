@@ -1,5 +1,4 @@
 Погружение в Python
-
 by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
 About this Course
