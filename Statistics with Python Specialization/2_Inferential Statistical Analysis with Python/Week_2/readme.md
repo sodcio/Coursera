@@ -1,1 +1,1 @@
-
+In this second week, we will learn about estimating population parameters via confidence intervals. You will be introduced to five different types of population parameters, assumptions needed to calculate a confidence interval for each of these five parameters, and how to calculate confidence intervals. Quizzes will appear throughout the week to test your understanding. In addition, you’ll learn how to create confidence intervals in Python.
