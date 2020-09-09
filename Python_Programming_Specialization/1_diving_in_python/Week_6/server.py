@@ -1,5 +1,3 @@
-
-
 """
 async text tcp server for metrics
 """
