@@ -1,1 +1,1 @@
-
+In the final week of this course, we will walk through several examples and case studies that illustrate applications of the inferential procedures discussed in prior weeks. Learners will see examples of well-formulated research questions related to the study designs and data sets that we have discussed thus far, and via both confidence interval estimation and formal hypothesis testing, we will formulate inferential responses to those questions.
